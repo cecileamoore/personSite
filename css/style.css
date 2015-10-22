@@ -1,0 +1,72 @@
+#header {
+    font-family: "Courier New", Courier, monospace;
+    background-color:rgb(230, 230, 230);
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    font-family: "Courier New", Courier, monospace;
+    line-height:30px;
+    height:300px;
+    width:100px;
+    float:left;
+    padding-top:15px; 
+}
+
+#nav a:link, a:visited {
+    text-decoration: none
+}
+
+#nav a:hover, a:active {
+    color: red;
+}
+
+#section {
+    font-family: "Courier New", Courier, monospace;
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+
+#homesection {
+    font-family: "Courier New", Courier, monospace;
+    width:800px;
+    float:left;
+    padding:10px;
+}
+
+
+#ressection2 {
+    font-family: "Courier New", Courier, monospace;
+    width:700px;
+    float:left;
+    padding:10px; 
+}
+
+h1 {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#footer {
+    font-family: "Courier New", Courier, monospace;
+    background-color:rgb(230, 230, 230);
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+#images {
+    float:right;
+    width:750px;
+    padding:10px; 
+}
+
+div#images a:hover img {
+    border:1px solid #0000ff;
+}
+
+img {
+    border-style: none;
+}
